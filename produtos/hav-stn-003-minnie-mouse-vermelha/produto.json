@@ -1,7 +1,7 @@
 {
   "referencia": "HAV-STN-003",
-  "titulo": "Chinelo Havaianas Stone – Minnie Mouse Vermelha",
-  "descricao": "Minnie Mouse Vermelha é a estampa deste chinelo Havaianas Stone. A ilustração do personagem ocupa o solado.",
+  "titulo": "Chinelo Havaianas – Minnie Mouse Vermelha",
+  "descricao": "Minnie Mouse Vermelha é a estampa deste par. Nos tamanhos 17/18 a 23/24, o modelo é da linha Stone Baby. Nos tamanhos 33/34 a 39/40, o modelo é da linha Stone Feminina.",
   "fotos": [
     "principal.jpg",
     "adicional-01.jpg"
@@ -9,14 +9,66 @@
   "preco_base_brl": 40,
   "estoque_total_informado": 2,
   "ativo_solicitado": true,
-  "variacoes": [],
-  "pendencias": [
-    "Informar SKU e estoque por numeração.",
-    "Identificar o modelo físico da estampa nas coleções de origem para vincular material e numeração."
+  "variacoes": [
+    {
+      "tamanho": "17/18",
+      "linha": "Stone Baby",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "19/20",
+      "linha": "Stone Baby",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "21/22",
+      "linha": "Stone Baby",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "23/24",
+      "linha": "Stone Baby",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "33/34",
+      "linha": "Stone Feminina",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "35/36",
+      "linha": "Stone Feminina",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "37/38",
+      "linha": "Stone Feminina",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "39/40",
+      "linha": "Stone Feminina",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    }
   ],
-  "linhas_de_origem_para_conferencia": [
-    "Stone Baby",
-    "Stone Feminina"
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
   ],
   "historico_das_fichas_de_origem": [
     {
@@ -39,5 +91,10 @@
         "39/40"
       ]
     }
-  ]
+  ],
+  "caracteristicas_por_linha": {
+    "Stone Baby": "Sola de micro emborrachado, detalhe de personagem ou da marca, estampa em transfer digital e tag da marca.",
+    "Stone Feminina": "Sola de micro emborrachado, marca pintada na correia, detalhe decorativo, estampa em transfer digital e tag da marca."
+  },
+  "origem_grade_vigente": "Grades das linhas vinculadas à mesma estampa conforme orientação da Parrini Shoes."
 }

@@ -1,7 +1,7 @@
 {
   "referencia": "HVD-043",
-  "titulo": "Chinelo Havaianas Transfer Digital – Mandala azul com borda floral",
-  "descricao": "Mandala azul com borda floral é a estampa deste chinelo Havaianas Transfer Digital. A composição circular organiza os detalhes da estampa.",
+  "titulo": "Chinelo Havaianas – Mandala azul com borda floral",
+  "descricao": "Mandala azul com borda floral é a estampa deste par. Nos tamanhos 25/26 a 31/32, o modelo é da linha Stone Infantil. Nos tamanhos 33/34 a 39/40, o modelo é da linha Transfer Digital.",
   "fotos": [
     "principal.jpg",
     "adicional-01.jpg",
@@ -10,14 +10,66 @@
   "preco_base_brl": 40,
   "estoque_total_informado": 2,
   "ativo_solicitado": true,
-  "variacoes": [],
-  "pendencias": [
-    "Informar SKU e estoque por numeração.",
-    "Identificar o modelo físico da estampa nas coleções de origem para vincular material e numeração."
+  "variacoes": [
+    {
+      "tamanho": "25/26",
+      "linha": "Stone Infantil",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "27/28",
+      "linha": "Stone Infantil",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "29/30",
+      "linha": "Stone Infantil",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "31/32",
+      "linha": "Stone Infantil",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "33/34",
+      "linha": "Transfer Digital",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "35/36",
+      "linha": "Transfer Digital",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "37/38",
+      "linha": "Transfer Digital",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "39/40",
+      "linha": "Transfer Digital",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    }
   ],
-  "linhas_de_origem_para_conferencia": [
-    "Stone Infantil",
-    "Transfer Digital"
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
   ],
   "historico_das_fichas_de_origem": [
     {
@@ -40,5 +92,10 @@
         "39/40"
       ]
     }
-  ]
+  ],
+  "caracteristicas_por_linha": {
+    "Stone Infantil": "Sola de micro emborrachado, marca pintada na correia, ponto de luz e personagem. A estampa é aplicada por transfer digital e o modelo traz tag da marca.",
+    "Transfer Digital": "Modelo de bico redondo, com sola de PVC expandido e correia grossa. A correia pode ter acabamento com ou sem glitter. A estampa é aplicada por transfer digital."
+  },
+  "origem_grade_vigente": "Grades das linhas vinculadas à mesma estampa conforme orientação da Parrini Shoes."
 }
