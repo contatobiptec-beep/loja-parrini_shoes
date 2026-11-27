@@ -1,7 +1,7 @@
 {
   "referencia": "HVD-112",
   "titulo": "Chinelo Havaianas Transfer Digital – Floral gráfico em preto e branco",
-  "descricao": "Floral gráfico em preto e branco é a estampa deste chinelo Havaianas Transfer Digital. As flores compõem o desenho do solado.",
+  "descricao": "Floral gráfico em preto e branco é a estampa deste chinelo Havaianas Transfer Digital. As flores compõem o desenho do solado. Modelo de bico redondo, com sola de PVC expandido e correia grossa. A correia pode ter acabamento com ou sem glitter. A estampa é aplicada por transfer digital.",
   "fotos": [
     "principal.jpg"
   ],
@@ -34,7 +34,12 @@
       "preco_brl": null
     }
   ],
-  "grades_documentadas": [
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ],
+  "linha_confirmada": "Transfer Digital",
+  "origem_grade_vigente": "Grade da linha confirmada pela Parrini Shoes em 27/11/2026.",
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HVD-112",
       "colecao": "Transfer Digital",
@@ -45,8 +50,5 @@
         "39/40"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração."
   ]
 }

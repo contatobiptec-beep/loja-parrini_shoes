@@ -1,7 +1,7 @@
 {
   "referencia": "HVD-079",
   "titulo": "Chinelo Havaianas Transfer Digital – Bananas em tons de laranja",
-  "descricao": "Bananas em tons de laranja é a estampa deste chinelo Havaianas Transfer Digital.",
+  "descricao": "Bananas em tons de laranja é a estampa deste chinelo Havaianas Transfer Digital. Modelo de bico redondo, com sola de PVC expandido e correia grossa. A correia pode ter acabamento com ou sem glitter. A estampa é aplicada por transfer digital.",
   "fotos": [
     "principal.jpg",
     "adicional-01.jpg",
@@ -36,7 +36,12 @@
       "preco_brl": null
     }
   ],
-  "grades_documentadas": [
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ],
+  "linha_confirmada": "Transfer Digital",
+  "origem_grade_vigente": "Grade da linha confirmada pela Parrini Shoes em 27/11/2026.",
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HVD-078",
       "colecao": "Transfer Digital",
@@ -57,8 +62,5 @@
         "39/40"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração."
   ]
 }

@@ -1,15 +1,45 @@
 {
   "referencia": "HAV-INF-044-03",
   "titulo": "Chinelo Havaianas Infantil – Bonecas em mosaico pink",
-  "descricao": "Bonecas em mosaico pink é a estampa deste chinelo Havaianas Infantil.",
+  "descricao": "Bonecas em mosaico pink é a estampa deste chinelo Havaianas Infantil. Sola de micro emborrachado, marca pintada na correia, ponto de luz e personagem. A estampa é aplicada por transfer digital e o modelo traz tag da marca.",
   "fotos": [
     "principal.jpg"
   ],
   "preco_base_brl": 40,
   "estoque_total_informado": 2,
   "ativo_solicitado": true,
-  "variacoes": [],
-  "grades_documentadas": [
+  "variacoes": [
+    {
+      "tamanho": "25/26",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "27/28",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "29/30",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "31/32",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ],
+  "linha_confirmada": "Stone Infantil",
+  "origem_grade_vigente": "Grade da linha confirmada pela Parrini Shoes em 27/11/2026.",
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HAV-INF-044",
       "colecao": "Havaianas Infantil - Estampas e Personagens",
@@ -20,16 +50,5 @@
         "39/40"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração.",
-    "Confirmar grade antes de cadastrar as variações.",
-    "Confirmar a grade da ficha de origem para esta estampa separada."
-  ],
-  "grade_no_documento_da_categoria_infantil": [
-    "25/26",
-    "27/28",
-    "29/30",
-    "31/32"
   ]
 }

@@ -4,9 +4,56 @@ Cada pasta em [produtos](produtos/) contém a ficha do modelo e suas fotos. A pr
 
 As fotos do acervo anterior continuam disponíveis em [imagens](imagens/). As [fotos de conjuntos](revisao/) servem para conferência.
 
-## Grades para conferir
+## Numeração e características por linha
 
-As fichas individuais da linha infantil informam 33/34 a 39/40 e o documento da categoria indica 25/26 a 31/32. As fichas afetadas registram as fontes e aguardam confirmação da grade.
+| Linha | Numeração | Características |
+| --- | --- | --- |
+| Transfer Digital | 33/34, 35/36, 37/38, 39/40 | Modelo de bico redondo, com sola de PVC expandido e correia grossa. A correia pode ter acabamento com ou sem glitter. A estampa é aplicada por transfer digital. |
+| Masculina | 33/34, 35/36, 37/38, 39/40, 41/42, 43/44 | Sola de micro emborrachado, marca pintada na correia, estampa em transfer digital e tag da marca. |
+| Stone Infantil | 25/26, 27/28, 29/30, 31/32 | Sola de micro emborrachado, marca pintada na correia, ponto de luz e personagem. A estampa é aplicada por transfer digital e o modelo traz tag da marca. |
+| Stone Baby | 17/18, 19/20, 21/22, 23/24 | Sola de micro emborrachado, detalhe de personagem ou da marca, estampa em transfer digital e tag da marca. |
+
+A grade Stone Infantil vale para os modelos masculinos e femininos. A grade confirmada da linha orienta as variações. As fichas mantêm o histórico das fontes locais.
+
+### Opções de lote para Transfer Digital
+
+| Opção | 33/34 | 35/36 | 37/38 | 39/40 | Pares no lote |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 1 | — | 3 | 6 | 3 | 12 |
+| 2 | 2 | 4 | 4 | 2 | 12 |
+
+A numeração também pode ser escolhida entre 33/34 e 39/40. As quantidades da tabela descrevem a composição de cada lote. O saldo por estampa e tamanho depende da contagem de estoque.
+
+### Estampas com modelo físico a confirmar
+
+As fotos destas estampas aparecem em duas linhas. A identificação da sola e da correia permite escolher a grade correta.
+
+- **HAV-STN-003** · Chinelo Havaianas Stone – Minnie Mouse Vermelha (Stone Baby e Stone Feminina)
+- **HAV-STN-004** · Chinelo Havaianas Stone – Stitch com Corações (Stone Baby e Stone Feminina)
+- **HVD-001** · Chinelo Havaianas Transfer Digital – Conchas e tartarugas azuis (Stone Infantil e Transfer Digital)
+- **HVD-007** · Chinelo Havaianas Transfer Digital – Araras verdes e rosas (Stone Infantil e Transfer Digital)
+- **HVD-010** · Chinelo Havaianas Transfer Digital – Coqueiros sobre listras rosas (Stone Infantil e Transfer Digital)
+- **HVD-013** · Chinelo Havaianas Transfer Digital – Golfinhos com flores turquesa (Stone Infantil e Transfer Digital)
+- **HVD-016** · Chinelo Havaianas Transfer Digital – Tartaruga no fundo do mar (Stone Infantil e Transfer Digital)
+- **HVD-028** · Chinelo Havaianas Transfer Digital – Baleia azul e estrelas (Stone Infantil e Transfer Digital)
+- **HVD-029** · Chinelo Havaianas Transfer Digital – Borboletas em vermelho e azul (Stone Infantil e Transfer Digital)
+- **HVD-036** · Chinelo Havaianas Transfer Digital – Flores pink em fundo branco (Stone Infantil e Transfer Digital)
+- **HVD-039** · Chinelo Havaianas Transfer Digital – Felino entre flores escuras (Stone Infantil e Transfer Digital)
+- **HVD-043** · Chinelo Havaianas Transfer Digital – Mandala azul com borda floral (Stone Infantil e Transfer Digital)
+- **HVD-044** · Chinelo Havaianas Transfer Digital – Olho grego em azul e branco (Stone Infantil e Transfer Digital)
+- **HVD-061** · Chinelo Havaianas Transfer Digital – Borboletas azuis em fundo claro (Stone Infantil e Transfer Digital)
+- **HVD-066** · Chinelo Havaianas Transfer Digital – Praia tropical em rosa e azul (Stone Infantil e Transfer Digital)
+- **HVD-069** · Chinelo Havaianas Transfer Digital – Borboletas delicadas em fundo escuro (Stone Infantil e Transfer Digital)
+- **HVD-077** · Chinelo Havaianas Transfer Digital – Onça em fundo creme (Stone Infantil e Transfer Digital)
+- **HVD-087** · Chinelo Havaianas Transfer Digital – Borboletas coloridas em fundo preto (Stone Infantil e Transfer Digital)
+- **HVD-092** · Chinelo Havaianas Transfer Digital – Borboletas em preto e branco (Stone Infantil e Transfer Digital)
+- **HVD-094** · Chinelo Havaianas Transfer Digital – Corações em fundo claro (Stone Infantil e Transfer Digital)
+- **HVD-106** · Chinelo Havaianas Transfer Digital – Tucano com flor vermelha (Stone Infantil e Transfer Digital)
+- **HVD-137** · Chinelo Havaianas Transfer Digital – Stitch com flores azuis e rosas (Stone Infantil e Transfer Digital)
+- **HVD-143** · Chinelo Havaianas Transfer Digital – Stitch em rosa com faixas azuis (Stone Infantil e Transfer Digital)
+- **HVD-151** · Chinelo Havaianas Transfer Digital – Borboleta dourada e flores amarelas (Stone Infantil e Transfer Digital)
+- **HVD-153** · Chinelo Havaianas Transfer Digital – Ramos floridos em vermelho (Stone Infantil e Transfer Digital)
+- **HVD-158** · Chinelo Havaianas Transfer Digital – Mandala bege com flor central (Stone Infantil e Transfer Digital)
 
 ## Produtos
 

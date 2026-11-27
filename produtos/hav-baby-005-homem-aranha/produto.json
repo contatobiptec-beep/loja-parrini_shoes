@@ -1,7 +1,7 @@
 {
   "referencia": "HAV-BABY-005",
   "titulo": "Chinelo Havaianas Baby – Homem-Aranha",
-  "descricao": "Homem-Aranha é a estampa deste chinelo Havaianas Baby. A ilustração do personagem ocupa o solado.",
+  "descricao": "Homem-Aranha é a estampa deste chinelo Havaianas Baby. A ilustração do personagem ocupa o solado. Sola de micro emborrachado, detalhe de personagem ou da marca, estampa em transfer digital e tag da marca.",
   "fotos": [
     "principal.jpg",
     "adicional-01.jpg"
@@ -35,7 +35,12 @@
       "preco_brl": null
     }
   ],
-  "grades_documentadas": [
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ],
+  "linha_confirmada": "Stone Baby",
+  "origem_grade_vigente": "Grade da linha confirmada pela Parrini Shoes em 27/11/2026.",
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HAV-BABY-005",
       "colecao": "Havaianas Baby - Estampas e Personagens",
@@ -46,8 +51,5 @@
         "23/24"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração."
   ]
 }

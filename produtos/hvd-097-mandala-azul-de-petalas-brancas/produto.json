@@ -1,7 +1,7 @@
 {
   "referencia": "HVD-097",
   "titulo": "Chinelo Havaianas Transfer Digital – Mandala azul de pétalas brancas",
-  "descricao": "Mandala azul de pétalas brancas é a estampa deste chinelo Havaianas Transfer Digital. A composição circular organiza os detalhes da estampa.",
+  "descricao": "Mandala azul de pétalas brancas é a estampa deste chinelo Havaianas Transfer Digital. A composição circular organiza os detalhes da estampa. Modelo de bico redondo, com sola de PVC expandido e correia grossa. A correia pode ter acabamento com ou sem glitter. A estampa é aplicada por transfer digital.",
   "fotos": [
     "principal.jpg",
     "adicional-01.jpg"
@@ -35,7 +35,12 @@
       "preco_brl": null
     }
   ],
-  "grades_documentadas": [
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ],
+  "linha_confirmada": "Transfer Digital",
+  "origem_grade_vigente": "Grade da linha confirmada pela Parrini Shoes em 27/11/2026.",
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HVD-097",
       "colecao": "Transfer Digital",
@@ -46,8 +51,5 @@
         "39/40"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração."
   ]
 }

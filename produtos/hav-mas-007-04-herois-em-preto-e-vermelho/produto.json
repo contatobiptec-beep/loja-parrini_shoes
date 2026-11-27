@@ -1,7 +1,7 @@
 {
   "referencia": "HAV-MAS-007-04",
   "titulo": "Chinelo Havaianas Masculino – Heróis em preto e vermelho",
-  "descricao": "Heróis em preto e vermelho é a estampa deste chinelo Havaianas Masculino.",
+  "descricao": "Heróis em preto e vermelho é a estampa deste chinelo Havaianas Masculino. Sola de micro emborrachado, marca pintada na correia, estampa em transfer digital e tag da marca.",
   "fotos": [
     "principal.jpg"
   ],
@@ -46,7 +46,12 @@
       "preco_brl": null
     }
   ],
-  "grades_documentadas": [
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ],
+  "linha_confirmada": "Masculina",
+  "origem_grade_vigente": "Grade da linha confirmada pela Parrini Shoes em 27/11/2026.",
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HAV-MAS-007",
       "colecao": "Havaianas Masculinas - Estampas Esportivas",
@@ -59,9 +64,5 @@
         "43/44"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração.",
-    "Confirmar a grade da ficha de origem para esta estampa separada."
   ]
 }

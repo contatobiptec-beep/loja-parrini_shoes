@@ -12,7 +12,15 @@
   "estoque_total_informado": 2,
   "ativo_solicitado": true,
   "variacoes": [],
-  "grades_documentadas": [
+  "pendencias": [
+    "Informar SKU e estoque por numeração.",
+    "Identificar o modelo físico da estampa nas coleções de origem para vincular material e numeração."
+  ],
+  "linhas_de_origem_para_conferencia": [
+    "Stone Infantil",
+    "Transfer Digital"
+  ],
+  "historico_das_fichas_de_origem": [
     {
       "referencia_origem": "HAV-INF-026",
       "colecao": "Havaianas Infantil - Estampas e Personagens",
@@ -43,15 +51,5 @@
         "39/40"
       ]
     }
-  ],
-  "pendencias": [
-    "Informar SKU e estoque por numeração.",
-    "Confirmar grade antes de cadastrar as variações."
-  ],
-  "grade_no_documento_da_categoria_infantil": [
-    "25/26",
-    "27/28",
-    "29/30",
-    "31/32"
   ]
 }
