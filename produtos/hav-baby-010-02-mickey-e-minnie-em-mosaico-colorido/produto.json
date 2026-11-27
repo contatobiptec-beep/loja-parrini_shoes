@@ -1,0 +1,53 @@
+{
+  "referencia": "HAV-BABY-010-02",
+  "titulo": "Chinelo Havaianas Baby – Mickey e Minnie em mosaico colorido",
+  "descricao": "Mickey e Minnie em mosaico colorido é a estampa deste chinelo Havaianas Baby. A ilustração do personagem ocupa o solado.",
+  "fotos": [
+    "principal.jpg"
+  ],
+  "preco_base_brl": 40,
+  "estoque_total_informado": 2,
+  "ativo_solicitado": true,
+  "variacoes": [
+    {
+      "tamanho": "17/18",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "19/20",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "21/22",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "23/24",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    }
+  ],
+  "grades_documentadas": [
+    {
+      "referencia_origem": "HAV-BABY-010",
+      "colecao": "Havaianas Baby - Estampas e Personagens",
+      "tamanhos": [
+        "17/18",
+        "19/20",
+        "21/22",
+        "23/24"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração.",
+    "Confirmar a grade da ficha de origem para esta estampa separada."
+  ]
+}

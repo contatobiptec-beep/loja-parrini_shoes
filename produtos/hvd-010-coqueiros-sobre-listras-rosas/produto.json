@@ -1,0 +1,45 @@
+{
+  "referencia": "HVD-010",
+  "titulo": "Chinelo Havaianas Transfer Digital – Coqueiros sobre listras rosas",
+  "descricao": "Coqueiros sobre listras rosas é a estampa deste chinelo Havaianas Transfer Digital. Os coqueiros dão ao desenho o aspecto de uma paisagem de praia.",
+  "fotos": [
+    "principal.jpg",
+    "adicional-01.jpg"
+  ],
+  "preco_base_brl": 40,
+  "estoque_total_informado": 2,
+  "ativo_solicitado": true,
+  "variacoes": [],
+  "grades_documentadas": [
+    {
+      "referencia_origem": "HAV-INF-050",
+      "colecao": "Havaianas Infantil - Estampas e Personagens",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40"
+      ]
+    },
+    {
+      "referencia_origem": "HVD-010",
+      "colecao": "Transfer Digital",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração.",
+    "Confirmar grade antes de cadastrar as variações."
+  ],
+  "grade_no_documento_da_categoria_infantil": [
+    "25/26",
+    "27/28",
+    "29/30",
+    "31/32"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "referencia": "HAV-INF-021-02",
+  "titulo": "Chinelo Havaianas Infantil – Tucanos sobre fundo azul",
+  "descricao": "Tucanos sobre fundo azul é a estampa deste chinelo Havaianas Infantil. A ave tropical é o motivo central do par.",
+  "fotos": [
+    "principal.jpg"
+  ],
+  "preco_base_brl": 40,
+  "estoque_total_informado": 2,
+  "ativo_solicitado": true,
+  "variacoes": [],
+  "grades_documentadas": [
+    {
+      "referencia_origem": "HAV-INF-021",
+      "colecao": "Havaianas Infantil - Estampas e Personagens",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração.",
+    "Confirmar grade antes de cadastrar as variações.",
+    "Confirmar a grade da ficha de origem para esta estampa separada."
+  ],
+  "grade_no_documento_da_categoria_infantil": [
+    "25/26",
+    "27/28",
+    "29/30",
+    "31/32"
+  ]
+}

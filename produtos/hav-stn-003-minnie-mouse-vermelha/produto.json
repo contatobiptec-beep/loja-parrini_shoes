@@ -1,0 +1,39 @@
+{
+  "referencia": "HAV-STN-003",
+  "titulo": "Chinelo Havaianas Stone – Minnie Mouse Vermelha",
+  "descricao": "Minnie Mouse Vermelha é a estampa deste chinelo Havaianas Stone. A ilustração do personagem ocupa o solado.",
+  "fotos": [
+    "principal.jpg",
+    "adicional-01.jpg"
+  ],
+  "preco_base_brl": 40,
+  "estoque_total_informado": 2,
+  "ativo_solicitado": true,
+  "variacoes": [],
+  "grades_documentadas": [
+    {
+      "referencia_origem": "HAV-BABY-013",
+      "colecao": "Havaianas Baby - Estampas e Personagens",
+      "tamanhos": [
+        "17/18",
+        "19/20",
+        "21/22",
+        "23/24"
+      ]
+    },
+    {
+      "referencia_origem": "HAV-STN-003",
+      "colecao": "Havaianas Stone Femininas - Estampas e Personagens",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração.",
+    "Confirmar grade antes de cadastrar as variações."
+  ]
+}

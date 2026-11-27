@@ -1,0 +1,67 @@
+{
+  "referencia": "HAV-MAS-007-03",
+  "titulo": "Chinelo Havaianas Masculino – Heróis em verde e roxo",
+  "descricao": "Heróis em verde e roxo é a estampa deste chinelo Havaianas Masculino.",
+  "fotos": [
+    "principal.jpg"
+  ],
+  "preco_base_brl": 40,
+  "estoque_total_informado": 2,
+  "ativo_solicitado": true,
+  "variacoes": [
+    {
+      "tamanho": "33/34",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "35/36",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "37/38",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "39/40",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "41/42",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "43/44",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    }
+  ],
+  "grades_documentadas": [
+    {
+      "referencia_origem": "HAV-MAS-007",
+      "colecao": "Havaianas Masculinas - Estampas Esportivas",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40",
+        "41/42",
+        "43/44"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração.",
+    "Confirmar a grade da ficha de origem para esta estampa separada."
+  ]
+}

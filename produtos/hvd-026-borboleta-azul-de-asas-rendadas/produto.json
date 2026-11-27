@@ -1,0 +1,63 @@
+{
+  "referencia": "HVD-026",
+  "titulo": "Chinelo Havaianas Transfer Digital – Borboleta azul de asas rendadas",
+  "descricao": "Borboleta azul de asas rendadas é a estampa deste chinelo Havaianas Transfer Digital. O desenho destaca o contorno das asas no solado.",
+  "fotos": [
+    "principal.jpg",
+    "adicional-01.jpg"
+  ],
+  "preco_base_brl": 40,
+  "estoque_total_informado": 2,
+  "ativo_solicitado": true,
+  "variacoes": [
+    {
+      "tamanho": "33/34",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "35/36",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "37/38",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    },
+    {
+      "tamanho": "39/40",
+      "sku": null,
+      "estoque": null,
+      "preco_brl": null
+    }
+  ],
+  "grades_documentadas": [
+    {
+      "referencia_origem": "HVD-026",
+      "colecao": "Transfer Digital",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40"
+      ]
+    },
+    {
+      "referencia_origem": "HVD-122",
+      "colecao": "Transfer Digital",
+      "tamanhos": [
+        "33/34",
+        "35/36",
+        "37/38",
+        "39/40"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Informar SKU e estoque por numeração."
+  ]
+}
